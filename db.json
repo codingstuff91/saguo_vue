@@ -1,0 +1,85 @@
+
+{
+    "commandes": [
+      {
+        "id": 1,
+        "prestataire": "SES",
+        "budget": 25000
+      },
+      {
+        "id": 2,
+        "prestataire": "SMARTEC",
+        "budget": 55000
+      },
+      {
+        "id": 3,
+        "prestataire": "STILOG",
+        "budget": 14000
+      }
+    ],
+    "prestataires" : [
+      {
+        "id":1,
+        "name" : "SES"
+      },
+      {
+        "id":2,
+        "name" : "SMARTEC"
+      },
+      {
+        "id":3,
+        "name" : "STILOG"
+      }
+    ],
+    "programmes" : [
+      {
+        "id" : 1,
+        "name":"TP400"
+      },
+      {
+        "id":2,
+        "name":"M88"
+      },
+      {
+        "id":3,
+        "name":"LEAP-1A"
+      }
+    ],
+    "familles" : [
+      {
+        "id" : 1,
+        "name" : "CAD"
+      },
+      {
+        "id" : 2,
+        "name" : "FPP"
+      }
+    ],
+    "uos" : [
+      {
+        "id" : 1,
+        "numero" : "1.1A",
+        "name" : "CAD simple",
+        "prix" : 205
+      },
+      {
+        "id" : 2,
+        "numero" : "1.1B",
+        "name" : "CAD complexe",
+        "prix" : 400
+      }
+    ],
+    "commande": [
+      {
+        "id": 1,
+        "prestataire": "SES",
+        "budget": 25000
+      }
+    ],
+    "taskcodes" : [
+      {
+        "id": 1,
+        "taskcode": "BC12 - AC12---- EXEMPLE DE TASK CODE"
+      }      
+    ]
+}
